@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Yeah, es kann nur <h2>einen</h2> geben!"
 
 ---
 
